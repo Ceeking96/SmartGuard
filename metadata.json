@@ -1,0 +1,9 @@
+{
+  "name": "SmartGuard - Universal Emergency Response",
+  "description": "A versatile emergency response app that transforms your profile into the specialist you need. Features real-time location-based service finding and AI-driven emergency guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
